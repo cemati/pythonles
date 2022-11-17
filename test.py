@@ -1,2 +1,2 @@
 print('hello')
-print('print vanuit web')
+print('print van uit web')
